@@ -5,6 +5,7 @@ Bet Dex is a dapp on the Ethereum network for placing bets on real-life events (
 
 #### Current Live Versions
 **Mainnet**: https://etherscan.io/address/0xb411eB71568B9f722a5b77C046d4BBEa5b36A0C5
+
 **Ropsten**: https://ropsten.etherscan.io/address/0xE10698033391a1C2D77499Caaf928408A1f874B4
 
 #### Project Components
